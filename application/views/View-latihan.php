@@ -11,4 +11,5 @@
     ini hasil dari pemodelan dengan method penjumlahan yaitu <?= $nilai1 . " + " . $nilai2 . " = " . $hasil; ?>
 
 </body>
+
 </html>
